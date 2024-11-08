@@ -1,11 +1,10 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Parag Arun"
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: "paragarun.github.io"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Parag Arun
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
