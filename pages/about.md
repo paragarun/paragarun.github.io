@@ -2,14 +2,20 @@
 layout: page
 title: About
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/about.png
 ---
 
 This website is a demonstration to see **Affiliates Jekyll theme** in action. 
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+Parag (Kavi Parag Arun) is a Tedx speaker, husband of a bright doctor and above all a dreamer. He loves to write poetry and articulate his creative and innovative thoughts and deliver them through his passionate talks. He is also an entrepreneur, Machine Learning researcher and author of best-selling Innovation strategy, ML and Data science books. An avid reader, Parag holds Bachelors from Walchand College of Engineering Sangli (1990), PhD from IIT Kharagpur (2001), management education from IIM Kolkata and was conferred higher doctorate DSc by UGSM monarch, Switzerland (2010). He is the world's first higher doctorate in the area of knowledge innovation.
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+Parag’s machine learning ideas resulted in pioneering products and have become commercially successful and produced unprecedented impact. He delivered over one thousand keynote addresses and 200+ tutorials across the globe. Over 1000 institutes and 10,00,000+ professionals benefitted from Parag’s talks, research and systemic consultations. Parag helped underperforming professionals, start-ups and students to transform into happy and passionate warriors. Fellow of the IET, IETE, and senior member IEEE, Parag is recipient of Oriental Foundation Scholarship, distinguished alumnus award WCE - Sangli and was nominated for prestigious Bhatnagar award in 2013 and 2014. He was also awarded IETE-KR Phadke award for innovative entrepreneurship and research in 2019. 
 
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+Parag has published over 300+ research papers and articles in peer reviewed journals and renown conferences: [Google Scholar](https://scholar.google.co.in/citations?user=dvi_iwEAAAAJ&hl=en). 
+
+He invented over a dozen patents and authored 14 books (with world’s best technical and business publishers like Bloomsbury, IEEE, Wiley, Prentice Hall, Springer, Oxford University Press, etc.): [Amazon](https://www.amazon.in/Parag-Kulkarni/e/B002U66T7K). 
+
+His book YD – YearDown portrays interesting perspective on education and was adapted for a TV serial by Sony TV by well-known movie director Sameer Patil. His poem collection was specially appreciated by one of the greatest romantic poets of all times, late Mangesh Padgaonkar. Parag’s book “Knowledge Innovation Strategy” was listed as a game changing business book by Hindustan Times. Niigata Times Japan mentioned that ‘it is enlightening experience for readers’ – It has foreword and endorsement with special acclamation by Dr. FC Kohli and Ratan Tata. Maharashtra Times, Hindustan Times, Times of India, Sakal, Pudhari from India and Niigata Times and Mainichi Newspaper from Japan published special articles highlighting Parag’s contributions in democratization of AI and ML.
+
+Parag was the first PhD guide in Computer Engineering at COEP – Pune University (The second oldest technical institute in the country) and has guided 20 PhD candidates. He has over 30 years of experience in technologies, product building and applications of AI and ML to different verticals. In the past, he headed research divisions of many companies including Siemens (India & Germany), IDeaS (US and India), ReasonEdge (Singapore), Capsilon, etc.  As an AI consultant he helped to build game changing products for companies like Envestnet, TechMahindra, UST Global, Agrisk, Tata Consumers etc. He founded startups iKnowlation – India, Kvinna Limited New Zealand and created social value through innovation and research. Parag is a prolific speaker and is associated with many technical and B-schools of repute like IITs, IIMs, Tokyo Int. University Japan and Masaryk University, Brno – Czech Republic etc. He has been taking special efforts and working closely with remote technical institutes in Maharashtra to inculcate research, thinking and entrepreneurship skills among students, faculties and researchers. He is a pioneer of concepts of Systemic Machine Learning, Reverse Hypothesis Machine Learning, Context Vector Machines and Choice computing. He has helped as AI and ML consultant and innovation strategist to over two dozen organizations in Singapore, US, Japan and India and contributed to their success stories. He worked on social good and developed over a dozen products in health care and education domains with focus on creating value at Bottom of the Pyramid.
 
