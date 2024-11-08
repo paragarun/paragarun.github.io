@@ -4,7 +4,7 @@ title:  "Parag the Entrepreneur"
 author: Parag
 categories: [ Jekyll, tutorial ]
 image: assets/images/6.jpg
-date: 2000-01-04
+date: 2000-01-01
 ---
 
 Jekyll also offers powerful support for code snippets:

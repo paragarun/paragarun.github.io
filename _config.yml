@@ -1,6 +1,6 @@
 title: "Parag Arun"
 timezone: UTC
-baseurl: "https://paragarun.github.io"
+baseurl: "/paragarun.github.io"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
