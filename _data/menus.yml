@@ -11,7 +11,7 @@ topmenu:
   url: "contact/"
 
 - title: Press 
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+  url: "press/"
   class: "ml-2 btn btn-dark text-white px-3"
   external: true 
 
