@@ -5,8 +5,6 @@ permalink: "/about/"
 image: assets/images/about.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
-
 Parag (Kavi Parag Arun) is a Tedx speaker, husband of a bright doctor and above all a dreamer. He loves to write poetry and articulate his creative and innovative thoughts and deliver them through his passionate talks. He is also an entrepreneur, Machine Learning researcher and author of best-selling Innovation strategy, ML and Data science books. An avid reader, Parag holds Bachelors from Walchand College of Engineering Sangli (1990), PhD from IIT Kharagpur (2001), management education from IIM Kolkata and was conferred higher doctorate DSc by UGSM monarch, Switzerland (2010). He is the world's first higher doctorate in the area of knowledge innovation.
 
 Parag’s machine learning ideas resulted in pioneering products and have become commercially successful and produced unprecedented impact. He delivered over one thousand keynote addresses and 200+ tutorials across the globe. Over 1000 institutes and 10,00,000+ professionals benefitted from Parag’s talks, research and systemic consultations. Parag helped underperforming professionals, start-ups and students to transform into happy and passionate warriors. Fellow of the IET, IETE, and senior member IEEE, Parag is recipient of Oriental Foundation Scholarship, distinguished alumnus award WCE - Sangli and was nominated for prestigious Bhatnagar award in 2013 and 2014. He was also awarded IETE-KR Phadke award for innovative entrepreneurship and research in 2019. 
