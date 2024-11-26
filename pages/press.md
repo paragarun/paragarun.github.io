@@ -5,11 +5,17 @@ permalink: "/press/"
 image: assets/images/pp.png
 ---
 
-Below are the relevant channels and addresses to contact Parag. 
+<!-- <p><strong>Academic Communication<br></strong></p> -->
 
+<img src="{{ site.baseurl }}/assets/images/pp3.png" alt="drawing" width="85%"/>
+<img src="{{ site.baseurl }}/assets/images/pp4.jpeg" alt="drawing" width="85%"/>
+<img src="{{ site.baseurl }}/assets/images/pp6.jpeg" alt="drawing" width="85%"/>
+<img src="{{ site.baseurl }}/assets/images/pp2.jpeg" alt="drawing" width="85%"/>
+<img src="{{ site.baseurl }}/assets/images/pp7.jpeg" alt="drawing" width="85%"/>
 
-<p><strong>Academic Communication<br></strong></p>
-
-
-
-<!-- a href="/cdn-cgi/l/email-protection#31525f0305097156545e435654455e465f1f545544"><span class="__cf_email__" data-cfemail="9cfff2aea8a4dcfbf9f3eefbf9e8f3ebf2b2f9f8e9">[email&#160;protected]</span></a> -->
+<!-- ![press image]({{ site.baseurl }}/assets/images/pp2.jpeg)
+![press image]({{ site.baseurl }}/assets/images/pp3.jpeg)
+![press image]({{ site.baseurl }}/assets/images/pp4.jpeg)
+![press image]({{ site.baseurl }}/assets/images/pp6.jpeg)
+![press image]({{ site.baseurl }}/assets/images/pp7.jpeg)
+ -->

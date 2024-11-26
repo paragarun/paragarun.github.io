@@ -3,8 +3,8 @@ timezone: UTC
 baseurl: "https://paragarun.github.io"
 #baseurl: ""
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/logopp.png'
+favicon: 'assets/images/logopp.png'
 author: Parag Arun
 paginate: 30
 disqus: 'demowebsite'
